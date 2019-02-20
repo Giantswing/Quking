@@ -1,3 +1,3 @@
 <?php
-	$site_version="Site version: 0.0.3";
+	$site_version="Site version: 0.0.7e";
 ?>
